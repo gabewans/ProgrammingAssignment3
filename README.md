@@ -10,7 +10,7 @@ At a high level, the program does the following:
 4: Labels the data set with descriptive variable names. 
 5: Creates a second tidy data set with the average of each variable for each activity and each subject.
 
-Variable and column descriptions can be found in the CodeBook.md file.
+Column descriptions can be found in the CodeBook.md file.
 
 The data for the project can be downloaded here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
